@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-0liver
 - 👀 I’m interested in android
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on games mobile
+- 🌱 I’m currently learning java and kotlin
+- 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me dtoliverbr@gmail.com
 
 <!---
