@@ -11,9 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-0liver&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div> 
-
   ![Snake animation](https://github.com/Daniel-0liver/Daniel-0liver/blob/output/github-contribution-grid-snake.svg)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-0liver&layout=compact)](https://github.com/Daniel-0liver/github-readme-stats)
 </div>
 <!---
 Daniel-0liver/Daniel-0liver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
