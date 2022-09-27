@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Daniel Oliveira
+- 👋 Hi, My name is Daniel Oliveira
+![FB_IMG_1634550629732 (1)](https://user-images.githubusercontent.com/84101904/192530897-69d292e5-5cac-48c9-b2b8-8eb3b4e664bd.jpg)
+
 - 🏫 I’m a student at 42 Lisbon
 - 🌱 I’m currently learning c, c++ and kotlin.
 
