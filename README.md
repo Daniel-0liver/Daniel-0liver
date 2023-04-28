@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Daniel Oliveira
-- 🏫 I’m a student at 42 Lisbon
-- 🌱 I’m currently learning c, c++ and kotlin.
+- 🏫 I’m a studing at 42 Lisbon
+- 🌱 I’m currently learning c and c++.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-7085a37a/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtoliverbr@gmail.com)
@@ -12,10 +12,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="40" width="50" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
 </div>
   
 <div> 
