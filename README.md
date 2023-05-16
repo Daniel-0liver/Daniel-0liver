@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Daniel Oliveira
 - 🏫 I’m a studing at 42 Lisbon
-- 🌱 I’m currently learning c and c++.
+- 🌱 I’m currently learning C and C++.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-7085a37a/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtoliverbr@gmail.com)
