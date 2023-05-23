@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Daniel Oliveira
+- 👋 Hello, My name is Daniel Oliveira
 - 🏫 I’m a student at 42 Lisbon
 - 🌱 Currently learning C and C++
 
