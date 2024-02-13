@@ -15,9 +15,3 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="40" width="50" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
 </div>
-  
-<div> 
-
-  ![Snake animation](https://github.com/Daniel-0liver/Daniel-0liver/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
