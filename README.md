@@ -4,7 +4,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-7085a37a/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtoliverbr@gmail.com)
-
 <div align="center">
   <a href="https://github.com/Daniel-0liver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-0liver&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
