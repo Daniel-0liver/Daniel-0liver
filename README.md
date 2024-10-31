@@ -1,7 +1,7 @@
 - 👋 Hello, My name is Daniel Oliveira
 - 🏫 Student at 42 Lisbon
 - 🏢 Android developer at @Critical Techworks by BMW
-- 🌱 Currently learning C, C++, and Kotlin for Mobile development
+- 🌱 Currently learning C, C++, and Kotlin for Android development
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-7085a37a/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dtoliverbr@gmail.com)
