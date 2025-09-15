@@ -58,14 +58,3 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Daniel-0liver/Daniel-0liver/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Daniel-0liver">Daniel-0liver</a></i>
-</div>
