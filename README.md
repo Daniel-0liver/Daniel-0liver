@@ -11,8 +11,6 @@
 - 🎓 **Student** at **42 Lisbon** - Learning the fundamentals of computer science
 - 💼 **Android Developer** at **@Critical Techworks by BMW** - Building cutting-edge automotive solutions  
 - 🌱 **Currently Learning**: C, C++, and Kotlin for Android development
-- 🚀 **Passionate** about mobile development, system programming, and clean code
-- 🎯 **Goal**: Mastering low-level programming while creating amazing mobile experiences
 
 ## 🌐 Connect With Me
 
